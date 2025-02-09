@@ -46,7 +46,7 @@ namespace PhotoTemplateCV
 
             // Интро-руководство
             if (settingsFileHasBeenRewrite)
-                MessageBox.Show($"Программа позволяет анализировать содержимое изображений, находить геометрические структуры и обозначать их границы линиями из трёх разных цветов: зелёным, голубым и красным. На вход получаются изображения разрешением 240x240px в формате JPG, содержащие структуры на белом фонеПрограмма разделена на две части: для входных и выходных данных.{Environment.NewLine}{Environment.NewLine}Обратите внимание, что в указанную выходную директорию будут сохраняться CSV файл с результатами (при его наличии данные новых сканирований будут добавляться) и выходные изображения (название изображения состоит из названия исходного изображения, постфикса _output и случайной комбинации цифр). По умолчанию выходная директория соответствует рабочей директории программы, изменить её можно в секции выходных данных.{Environment.NewLine}{Environment.NewLine}Авторы проекта: {Environment.NewLine} Николай Юрченко (kolya112) {Environment.NewLine} Даниил Бойков; {Environment.NewLine}{Environment.NewLine} Команда \"Кодовые пионеры\"", "Добро пожаловать в PhotoTemplateCV",
+                MessageBox.Show($"Программа позволяет анализировать содержимое изображений, находить геометрические структуры и обозначать их границы линиями из трёх разных цветов: зелёным, голубым и красным. На вход получаются изображения разрешением 240x240px в формате JPG, содержащие структуры на белом фоне. Программа разделена на две части: для входных и выходных данных.{Environment.NewLine}{Environment.NewLine}Обратите внимание, что в указанную выходную директорию будут сохраняться CSV файл с результатами (при его наличии данные новых сканирований будут добавляться) и выходные изображения (название изображения состоит из названия исходного изображения, постфикса _output и случайной комбинации цифр). По умолчанию выходная директория соответствует рабочей директории программы, изменить её можно в секции выходных данных.{Environment.NewLine}{Environment.NewLine}Авторы проекта: {Environment.NewLine} Николай Юрченко (kolya112) {Environment.NewLine} Даниил Бойков; {Environment.NewLine}{Environment.NewLine} Команда \"Кодовые пионеры\"", "Добро пожаловать в PhotoTemplateCV",
                     MessageBoxButton.OK, MessageBoxImage.Information);
 
             // Автозаполнение полей из настроек
@@ -92,7 +92,7 @@ namespace PhotoTemplateCV
 
             // Интро-руководство
             if (settingsFileHasBeenRewrite)
-                MessageBox.Show($"Программа позволяет анализировать содержимое изображений, находить геометрические структуры и обозначать их границы линиями из трёх разных цветов: зелёным, голубым и красным. На вход получаются изображения разрешением 240x240px в формате JPG, содержащие структуры на белом фонеПрограмма разделена на две части: для входных и выходных данных.{Environment.NewLine}{Environment.NewLine}Обратите внимание, что в указанную выходную директорию будут сохраняться CSV файл с результатами (при его наличии данные новых сканирований будут добавляться) и выходные изображения (название изображения состоит из названия исходного изображения, постфикса _output и случайной комбинации цифр). По умолчанию выходная директория соответствует рабочей директории программы, изменить её можно в секции выходных данных.{Environment.NewLine}{Environment.NewLine}Авторы проекта: {Environment.NewLine} Николай Юрченко (kolya112) {Environment.NewLine} Даниил Бойков; {Environment.NewLine}{Environment.NewLine} Команда \"Кодовые пионеры\"", "Добро пожаловать в PhotoTemplateCV",
+                MessageBox.Show($"Программа позволяет анализировать содержимое изображений, находить геометрические структуры и обозначать их границы линиями из трёх разных цветов: зелёным, голубым и красным. На вход получаются изображения разрешением 240x240px в формате JPG, содержащие структуры на белом фоне. Программа разделена на две части: для входных и выходных данных.{Environment.NewLine}{Environment.NewLine}Обратите внимание, что в указанную выходную директорию будут сохраняться CSV файл с результатами (при его наличии данные новых сканирований будут добавляться) и выходные изображения (название изображения состоит из названия исходного изображения, постфикса _output и случайной комбинации цифр). По умолчанию выходная директория соответствует рабочей директории программы, изменить её можно в секции выходных данных.{Environment.NewLine}{Environment.NewLine}Авторы проекта: {Environment.NewLine} Николай Юрченко (kolya112) {Environment.NewLine} Даниил Бойков; {Environment.NewLine}{Environment.NewLine} Команда \"Кодовые пионеры\"", "Добро пожаловать в PhotoTemplateCV",
                     MessageBoxButton.OK, MessageBoxImage.Information);
 
             // Автозаполнение полей из настроек
@@ -378,15 +378,14 @@ namespace PhotoTemplateCV
             {
                 var core = new Core(pathToTemplate, outputDirectory, Common.Global.lastColor);
 
-                (int structuresCount, int bordersCount, string outputImagePath) = core.Execute();
+                (int structuresCount, string outputImagePath) = core.Execute();
 
-                MessageBox.Show("Сканирование успешно завершено. Информация о количестве найденных структур и количестве границ доступна в соответствующем окне. Выходное изображение сохранено и отображено в программе, информация о сканировании внесена в файл scanner_info.csv", "Сканирование завершено",
+                MessageBox.Show("Сканирование успешно завершено. Информация о количестве найденных структур доступна в соответствующем окне. Выходное изображение сохранено и отображено в программе, информация о сканировании внесена в файл scanner_info.csv", "Сканирование завершено",
                     MessageBoxButton.OK, MessageBoxImage.Information);
 
                 Common.Global.lastOutputImagePath = outputImagePath;
                 outputImage.Source = new BitmapImage(new Uri(outputImagePath));
                 structuresCountLabel.Content = structuresCount.ToString();
-                contoursCountLabel.Content = bordersCount.ToString();
 
                 Common.Functions.WriteDataToCSV(outputDirectory + "\\scanner_info.csv", Path.GetFileName(pathToTemplate), structuresCount);
 
@@ -420,6 +419,76 @@ namespace PhotoTemplateCV
             else
                 MessageBox.Show("CSV-файл с результатми сканирований изображений (фотошаблонов) в выбранной выходной директории не найден. Возможно, он был удалён или после последнего сканирования производилась смена выходной директории.", "CSV-файл не найден",
                     MessageBoxButton.OK, MessageBoxImage.Warning);
+        }
+
+        private void OutputDirectoryBrowse_MouseLeave(object sender, MouseEventArgs e)
+        {
+
+        }
+
+        private void OutputDirectoryBrowse_MouseEnter(object sender, MouseEventArgs e)
+        {
+
+        }
+
+        private void OpenDirectory_MouseLeave(object sender, MouseEventArgs e)
+        {
+
+        }
+
+        private void OpenDirectory_MouseEnter(object sender, MouseEventArgs e)
+        {
+
+        }
+
+        private void InputFileBrowse_MouseLeave(object sender, MouseEventArgs e)
+        {
+
+        }
+
+        private void InputFileBrowse_MouseEnter(object sender, MouseEventArgs e)
+        {
+
+        }
+
+        private void OpenInputImage_MouseLeave(object sender, MouseEventArgs e)
+        {
+
+        }
+
+        private void OpenInputImage_MouseEnter(object sender, MouseEventArgs e)
+        {
+
+        }
+
+        private void OpenOutputImage_MouseLeave(object sender, MouseEventArgs e)
+        {
+
+        }
+
+        private void OpenOutputImage_MouseEnter(object sender, MouseEventArgs e)
+        {
+
+        }
+
+        private void ScanButton_MouseLeave(object sender, MouseEventArgs e)
+        {
+
+        }
+
+        private void ScanButton_MouseEnter(object sender, MouseEventArgs e)
+        {
+
+        }
+
+        private void OpenCSVFileButton_MouseLeave(object sender, MouseEventArgs e)
+        {
+
+        }
+
+        private void OpenCSVFileButton_MouseEnter(object sender, MouseEventArgs e)
+        {
+
         }
     }
 }

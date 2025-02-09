@@ -52,7 +52,7 @@ namespace PTComputerVisionModule
         }
 
         // Функция-запускатор работы Emgu.CV над фотошаблоном
-        public (int structuresCount, int bordersCount, string imageOutputPath) Execute()
+        public (int structuresCount, string imageOutputPath) Execute()
         {
             try
             {
@@ -94,7 +94,7 @@ namespace PTComputerVisionModule
 
                 CvInvoke.Imwrite(_outputPath, outputImage);
 
-                return (structureCount, contours.Size, _outputPath);
+                return (structureCount, _outputPath);
             }
             catch (IOException)
             {
