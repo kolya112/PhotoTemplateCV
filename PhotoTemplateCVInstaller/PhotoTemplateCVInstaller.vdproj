@@ -39,6 +39,12 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_06BC9A276E6F437399C24BAB6F37A356"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_09734CDB6D3403EC1E57804356C0852B"
         "OwnerKey" = "8:_2456EE71925A4FBBA47CF47530688A5F"
         "MsmSig" = "8:_UNDEFINED"
@@ -101,6 +107,12 @@
         {
         "MsmKey" = "8:_0BBDDB96FAC111698F2676E32FD658CB"
         "OwnerKey" = "8:_BC0E426CE9C8C95AAE12A32F76D571DD"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_0EBC9CD7C13B4051BFD79068123A6CFD"
+        "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -251,6 +263,12 @@
         {
         "MsmKey" = "8:_20AC6ECDC87E72C10EA942685D11E01B"
         "OwnerKey" = "8:_F069FE1AE9574EF99D23281757A536CE"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_23A223735273411E8D7731D895141089"
+        "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -489,6 +507,12 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_47214C8ADC604931A005B59D2277046E"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_48F531D561B645FBE8843E2E7AB23472"
         "OwnerKey" = "8:_2456EE71925A4FBBA47CF47530688A5F"
         "MsmSig" = "8:_UNDEFINED"
@@ -521,6 +545,12 @@
         {
         "MsmKey" = "8:_4DE76C9ACC18A060461B1115C069C1FD"
         "OwnerKey" = "8:_F069FE1AE9574EF99D23281757A536CE"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_4E1C8F97000F405D98F293585C1846B1"
+        "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -599,6 +629,12 @@
         {
         "MsmKey" = "8:_6344B6A86A331FD5565555469AD4D975"
         "OwnerKey" = "8:_F069FE1AE9574EF99D23281757A536CE"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_6425B8FAA9D74073B0C7BD283C0469EA"
+        "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -814,18 +850,6 @@
         "Entry"
         {
         "MsmKey" = "8:_7E36E65C29441116D48E4E841581FE59"
-        "OwnerKey" = "8:_70E4319D873A0370FC4B500619FF2752"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_7E36E65C29441116D48E4E841581FE59"
-        "OwnerKey" = "8:_0BBDDB96FAC111698F2676E32FD658CB"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_7E36E65C29441116D48E4E841581FE59"
         "OwnerKey" = "8:_F069FE1AE9574EF99D23281757A536CE"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -963,6 +987,12 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_945AE890BB4A449EAAD4D48FEBD1AFE8"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_94B6E62206DBAC128010DDA57E92D7F5"
         "OwnerKey" = "8:_2456EE71925A4FBBA47CF47530688A5F"
         "MsmSig" = "8:_UNDEFINED"
@@ -1007,6 +1037,12 @@
         {
         "MsmKey" = "8:_991DDB36D52E9D7B7691F9F5FB98782B"
         "OwnerKey" = "8:_F069FE1AE9574EF99D23281757A536CE"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_99AC73A75B5E4BF1A7C1D7A6C6C46466"
+        "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -1157,6 +1193,12 @@
         {
         "MsmKey" = "8:_B8232CBE49B9268527BF76D390799FCA"
         "OwnerKey" = "8:_F069FE1AE9574EF99D23281757A536CE"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_B85486026C134D1EA7D89EA11F46381D"
+        "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -1480,12 +1522,6 @@
         "Entry"
         {
         "MsmKey" = "8:_E2680F48A6539DC3673F06D71BB761B0"
-        "OwnerKey" = "8:_135BB1B55C25DCA65411A5DFE5DEA3EB"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_E2680F48A6539DC3673F06D71BB761B0"
         "OwnerKey" = "8:_F069FE1AE9574EF99D23281757A536CE"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -1613,6 +1649,12 @@
         {
         "MsmKey" = "8:_F20FCC0DA294699DB5FCF1B46B4BE181"
         "OwnerKey" = "8:_F069FE1AE9574EF99D23281757A536CE"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_FD34BB9D4827464794AB690802705867"
+        "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -2504,6 +2546,26 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_06BC9A276E6F437399C24BAB6F37A356"
+            {
+            "SourcePath" = "8:..\\PhotoTemplateCV\\bin\\x86\\Release\\libusb-1.0.dll"
+            "TargetName" = "8:libusb-1.0.dll"
+            "Tag" = "8:"
+            "Folder" = "8:_28FCAEFD64584C63916B7DBB08818408"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_09734CDB6D3403EC1E57804356C0852B"
             {
             "AssemblyRegister" = "3:1"
@@ -2626,6 +2688,26 @@
             "Register" = "3:1"
             "Exclude" = "11:FALSE"
             "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_0EBC9CD7C13B4051BFD79068123A6CFD"
+            {
+            "SourcePath" = "8:..\\PhotoTemplateCV\\bin\\x86\\Release\\msvcp140_codecvt_ids.dll"
+            "TargetName" = "8:msvcp140_codecvt_ids.dll"
+            "Tag" = "8:"
+            "Folder" = "8:_28FCAEFD64584C63916B7DBB08818408"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_108B8A6FD3322ADCD46598AE4DEB86D5"
@@ -2967,6 +3049,26 @@
             "Register" = "3:1"
             "Exclude" = "11:FALSE"
             "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_23A223735273411E8D7731D895141089"
+            {
+            "SourcePath" = "8:..\\PhotoTemplateCV\\bin\\x86\\Release\\opencv_videoio_ffmpeg4100.dll"
+            "TargetName" = "8:opencv_videoio_ffmpeg4100.dll"
+            "Tag" = "8:"
+            "Folder" = "8:_28FCAEFD64584C63916B7DBB08818408"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_26B71A39966D18A706DA1628CB8792FF"
@@ -3558,6 +3660,26 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_47214C8ADC604931A005B59D2277046E"
+            {
+            "SourcePath" = "8:..\\PhotoTemplateCV\\bin\\x86\\Release\\msvcp140_atomic_wait.dll"
+            "TargetName" = "8:msvcp140_atomic_wait.dll"
+            "Tag" = "8:"
+            "Folder" = "8:_28FCAEFD64584C63916B7DBB08818408"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_48F531D561B645FBE8843E2E7AB23472"
             {
             "AssemblyRegister" = "3:1"
@@ -3649,6 +3771,26 @@
             "Register" = "3:1"
             "Exclude" = "11:FALSE"
             "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_4E1C8F97000F405D98F293585C1846B1"
+            {
+            "SourcePath" = "8:..\\PhotoTemplateCV\\bin\\x86\\Release\\vcruntime140.dll"
+            "TargetName" = "8:vcruntime140.dll"
+            "Tag" = "8:"
+            "Folder" = "8:_28FCAEFD64584C63916B7DBB08818408"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_53707D217CA95528A5E4696F9C0C3151"
@@ -3866,6 +4008,26 @@
             "Register" = "3:1"
             "Exclude" = "11:FALSE"
             "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_6425B8FAA9D74073B0C7BD283C0469EA"
+            {
+            "SourcePath" = "8:..\\PhotoTemplateCV\\bin\\x86\\Release\\cvextern.dll"
+            "TargetName" = "8:cvextern.dll"
+            "Tag" = "8:"
+            "Folder" = "8:_28FCAEFD64584C63916B7DBB08818408"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_672CC5D20E2A8B7A7A86449C7967D0F3"
@@ -4612,6 +4774,26 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_945AE890BB4A449EAAD4D48FEBD1AFE8"
+            {
+            "SourcePath" = "8:..\\PhotoTemplateCV\\bin\\x86\\Release\\msvcp140_1.dll"
+            "TargetName" = "8:msvcp140_1.dll"
+            "Tag" = "8:"
+            "Folder" = "8:_28FCAEFD64584C63916B7DBB08818408"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_94B6E62206DBAC128010DDA57E92D7F5"
             {
             "AssemblyRegister" = "3:1"
@@ -4734,6 +4916,26 @@
             "Register" = "3:1"
             "Exclude" = "11:FALSE"
             "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_99AC73A75B5E4BF1A7C1D7A6C6C46466"
+            {
+            "SourcePath" = "8:..\\PhotoTemplateCV\\bin\\x86\\Release\\concrt140.dll"
+            "TargetName" = "8:concrt140.dll"
+            "Tag" = "8:"
+            "Folder" = "8:_28FCAEFD64584C63916B7DBB08818408"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_9B598E1A46239BF0D0A50AE38594ACE5"
@@ -5106,6 +5308,26 @@
             "Register" = "3:1"
             "Exclude" = "11:FALSE"
             "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_B85486026C134D1EA7D89EA11F46381D"
+            {
+            "SourcePath" = "8:..\\PhotoTemplateCV\\bin\\x86\\Release\\msvcp140_2.dll"
+            "TargetName" = "8:msvcp140_2.dll"
+            "Tag" = "8:"
+            "Folder" = "8:_28FCAEFD64584C63916B7DBB08818408"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_B956CE5179EA5B8831F7DE19D74744D4"
@@ -6224,6 +6446,26 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_FD34BB9D4827464794AB690802705867"
+            {
+            "SourcePath" = "8:..\\PhotoTemplateCV\\bin\\x86\\Release\\msvcp140.dll"
+            "TargetName" = "8:msvcp140.dll"
+            "Tag" = "8:"
+            "Folder" = "8:_28FCAEFD64584C63916B7DBB08818408"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
         }
         "FileType"
         {
@@ -6281,7 +6523,7 @@
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:PhotoTemplateCVInstaller"
         "ProductCode" = "8:{66C9FA80-785A-4E7F-9388-F16F60063D22}"
-        "PackageCode" = "8:{38E0EFF4-9AF3-454E-B56E-E957E3B6D1E7}"
+        "PackageCode" = "8:{77421F18-BAF8-4D35-915F-5ECC19BA10BE}"
         "UpgradeCode" = "8:{080C15FB-20BE-4A96-B973-5ECD5F81DBDE}"
         "AspNetVersion" = "8:4.0.30319.0"
         "RestartWWWService" = "11:FALSE"
@@ -6802,7 +7044,7 @@
         {
             "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_2456EE71925A4FBBA47CF47530688A5F"
             {
-            "SourcePath" = "8:..\\PTComputerVisionModule\\obj\\x86\\Release\\PTComputerVisionModule.dll"
+            "SourcePath" = "8:..\\PTComputerVisionModule\\obj\\x86\\Debug\\PTComputerVisionModule.dll"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_28FCAEFD64584C63916B7DBB08818408"
